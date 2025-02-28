@@ -1,6 +1,8 @@
 # Manual-de-Usuario-Consultas-PAE
 Manual de usuario para el uso correcto del programa CONSULTAS PAE
 
-* Puedes encontrar el instalador oficial para la aplicación CONSULTAS PAE
-* Así mismo, encontrarás en formato PDF el MANUAL DE USUARIO, para el correcto uso de cada parte del programa CONSULTAS PAE.
-* La sección "Faltantes por PAE" tiene acceso restringido. Se proporcionará la contraseña para acceder sólo bajo autorización previa.
+* El instalador oficial de la aplicación CONSULTAS PAE, denominado "Instalador_Consultas_PAE.exe", está disponible para su descarga en este repositorio (link: https://bit.ly/instalador_pae)
+
+* También se incluye el Manual de Usuario en formato PDF, con instrucciones detalladas sobre el uso de cada función del programa. (link: https://bit.ly/Manual_PAE)
+
+* El acceso a la sección "Faltantes por PAE" está restringido. La contraseña será proporcionada únicamente con autorización previa.
