@@ -1,5 +1,5 @@
 # MANUAL DE USUARIO
-Manual de usuario para el uso correcto del programa CONSULTAS PAE
+Repositorio con acceso al instalador oficial y al Manual de Usuario para el uso correcto del programa CONSULTAS PAE
 
 * El **instalador oficial** de la aplicación CONSULTAS PAE, denominado "Instalador_Consultas_PAE.exe", está disponible para su descarga en este repositorio ( **link: https://bit.ly/instalador_pae** )
 
